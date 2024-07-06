@@ -1,2 +1,2 @@
 # TeamTechno
- This repository contains work that I have done as part of Team Techno
+ This repository will contain all tasks and projects that I undertake as part of Team Techno, a robotics team at GIKI Institute specializing in robots and Arduino programming, participating in national and international competitions
